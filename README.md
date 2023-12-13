@@ -1,10 +1,8 @@
 # SpeechSynthesis
 
-<audio controls src="https://raw.githubusercontent.com/philliptharris/SpeechSynthesis/blob/main/audio-files/ar-001_Majed.mp3"></audio>
+<audio controls src="https://raw.githubusercontent.com/philliptharris/SpeechSynthesis/main/audio-files/ar-001_Majed.mp3"></audio>
 
-https://raw.githubusercontent.com/myName/myRepo/master/vendor/assets/music/Tetris.mp3
-
-https://github.com/philliptharris/SpeechSynthesis/blob/main/audio-files/ar-001_Majed.mp3
+<p><b>Testing</b></p>
 
 |             |                           |           |             |         |         |                                                  |                     |
 | :---        | :---                      | :---      | :---        | :---    | :---    | :---                                             | :---                |
