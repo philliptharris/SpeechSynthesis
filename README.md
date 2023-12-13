@@ -1,5 +1,11 @@
 # SpeechSynthesis
 
+<audio controls src="https://raw.githubusercontent.com/philliptharris/SpeechSynthesis/blob/main/audio-files/ar-001_Majed.mp3"></audio>
+
+https://raw.githubusercontent.com/myName/myRepo/master/vendor/assets/music/Tetris.mp3
+
+https://github.com/philliptharris/SpeechSynthesis/blob/main/audio-files/ar-001_Majed.mp3
+
 |             |                           |           |             |         |         |                                                  |                     |
 | :---        | :---                      | :---      | :---        | :---    | :---    | :---                                             | :---                |
 | language-id | locale                    | name      | gender      | quality | novelty | identifier                                       | audio-file          |
